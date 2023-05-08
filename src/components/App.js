@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <CssBaseline />
-
+      {/*<NavBar />*/}
       <main>
         <Switch>
           <Route exact path="/movie/:id">
